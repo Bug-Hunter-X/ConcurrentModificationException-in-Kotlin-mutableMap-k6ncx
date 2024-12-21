@@ -1,0 +1,1 @@
+This repository demonstrates a ConcurrentModificationException in Kotlin when removing elements from a mutable map while iterating using the entries.removeIf() method. The bug.kt file shows the problematic code, and the bugSolution.kt file provides a solution using an iterator.
